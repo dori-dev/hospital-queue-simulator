@@ -1,2 +1,2 @@
-# hospital queue simulator
+# Hospital Queue Simulator
 A simulation of a hospital queuing system.
