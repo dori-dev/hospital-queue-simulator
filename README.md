@@ -4,7 +4,8 @@ A simulation of a hospital queuing system.
 #
 ## Installation Requirements
 ```
-pip install matplotlib, numpy
+pip install matplotlib
+pip install numpy
 ```
 
 #
