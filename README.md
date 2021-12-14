@@ -15,6 +15,10 @@ python3 hospital_queue_simulator.py
 ```
 
 #
+## Jupyter
+Also you can open `hospital_queue_simulator.ipynb` with jupyter and use it.
+
+#
 ## Links
 
 Download Source Code: [Click Here](https://github.com/dori-dev/hospital-queue-simulator/archive/refs/heads/main.zip)
