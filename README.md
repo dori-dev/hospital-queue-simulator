@@ -2,6 +2,12 @@
 A simulation of a hospital queuing system.
 
 #
+## Installation Requirements
+```
+pip install matplotlib, numpy
+```
+
+#
 ## How to Run
 ```
 python3 hospital_queue_simulator.py
